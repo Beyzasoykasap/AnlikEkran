@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+
+# OS dosyaları (Windows, Mac)
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+logs/
+*.log
+
+# IDE dosyaları (VSCode, JetBrains)
+.vscode/
+.idea/
